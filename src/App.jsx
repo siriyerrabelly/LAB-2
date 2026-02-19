@@ -5,7 +5,7 @@ import UserPhoto from "./components/UserPhoto.jsx";
 
 const App = () => {
   const [user, setUser] = useState({
-    name: "Siri",
+    name: "Siri ",
     role: "Frontend Developer",
     status: "Active",
     photo: "/profile.png"
